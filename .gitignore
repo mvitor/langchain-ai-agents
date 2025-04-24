@@ -1,0 +1,5 @@
+.env
+bitcoin_analysis_history/*
+bitcoin_charts/*
+*.log
+.DS_Store
